@@ -1,0 +1,14 @@
+.header{
+  width:auto;
+  height:120px;
+  background-color: rgb(211, 167, 112);
+  box-shadow: 3px 3px 3px #ababab;
+}
+
+.header h1{
+    text-align: center;
+    color:rgb(76, 38, 13);
+    padding:27px;
+    font-family: "sofia", sans-serif;
+    font-size: 53px;
+}
